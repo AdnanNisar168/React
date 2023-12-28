@@ -1,0 +1,13 @@
+React uses Declarative approach
+
+
+
+A declarative approach is a programming or problem-solving paradigm that focuses on 
+describing what needs to be achieved or the desired outcome, rather than specifying
+how to achieve it step by step. In other words, in a declarative approach, 
+you declare the result you want, and the system or program figures out how to achieve that result.
+This is in contrast to an imperative approach, where you specify a sequence of steps or instructions to achieve a particular goal.
+
+ex:
+creating an element "<p>"
+inner text 
