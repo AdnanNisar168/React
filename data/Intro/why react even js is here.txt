@@ -1,0 +1,10 @@
+if we want to create and more realistic app using only js "we have to write every single step that should be taken"
+ex:
+createElement
+set content
+add classes
+addEventListener
+then what should happen on the clickListener
+
+this is an Emparative Upproach
+we need to describe action after action, step after step

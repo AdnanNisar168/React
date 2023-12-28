@@ -1,0 +1,7 @@
+Officail definitin:
+A js library for building user interfaces
+
+React is all about spliting you application into small building blocks , small components where every component has 
+a clear task
+and you code stay maintainable and manageable and React the libraray will do the heavy lifting of rendering something on the
+secreen, and combining all of your code

@@ -1,0 +1,3 @@
+Let & Const are keywords for Creating variable
+these are introduces in ES6 
+we were using "var" keyword before the "let" and "const" keywords

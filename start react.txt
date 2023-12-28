@@ -2,3 +2,5 @@ npx create-react-app my-app
 npm start
 
 npm install 
+
+npm install react-scripts --save

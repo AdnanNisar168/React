@@ -1,0 +1,15 @@
+Classes are Blueprints for Objects
+
+class is created with "Class" KeyWord 
+class has Both "Properties" and "Methods"
+
+"methods" are functions attached to classes 
+"Properties" are variables attached to classes
+
+
+classes are accessed with "new" keyword
+
+classes also support "Inheritance"
+
+for inheritance we have to run the supper Constructor syntace "super()" in child class or derived class , this supper 
+constructor will run the constructor of parent class

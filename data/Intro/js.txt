@@ -1,0 +1,7 @@
+JavaScript is a programing language which allow us as a developer to run logics in the browser
+js can Manipulate HTML strucutre of the page (DOM)
+
+DOM allow us what the user sees without fetching a new html page
+
+React js is client side js library, it helps us writing that client side js code, and it's all about bulding modren reactive 
+user interfaces for websites

@@ -1,0 +1,4 @@
+(ES6) next generatin js has 
+Arrow Functions 
+let keyword
+const keyword
