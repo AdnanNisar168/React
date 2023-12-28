@@ -22,9 +22,10 @@ function ExpenseItem(props) {
     //array destructuring
     const [title, setTitle] = useState(props.title);
 
-    const expenseDate = new Date(2023, 8, 3);
-    const expenseTile = 'Car Insurance';
-    const expenseAmount = 294.67;
+    // const expenseDate = new Date(2023, 8, 3);
+    // const expenseTile = 'Car Insurance';
+    // const expenseAmount = 294.67;
+    
     //let title = props.title
     const clickHandler = ()=>{
         //title = 'Updated'
