@@ -20,14 +20,20 @@ function ExpenseItem(props) {
     //and 2nd is Functuion to update current state value
 
     //array destructuring
-    const [title, setTitle] = useState(props.title);
+    const [title, setTitle] = useState(props.title);//state initialization
+    //the jsx code for the elem whos state is changed is executed
+    //reevaluate the jsx code whenever the state changes
 
     // const expenseDate = new Date(2023, 8, 3);
     // const expenseTile = 'Car Insurance';
     // const expenseAmount = 294.67;
+
+    console.log('ExpenseItem evaluated by react')
     
     //let title = props.title
     const clickHandler = ()=>{
+    setTitle('Updated By setTitle method useState');
+
         //title = 'Updated'
         console.log(title);
     }

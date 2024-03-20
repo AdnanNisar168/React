@@ -1,0 +1,2 @@
+Component composition is the name for passing components as props to other components, 
+thus creating new components with other components.

@@ -1,0 +1,5 @@
+import React from 'react';
+
+React' must be in scope when using JSX if we declare JSX in the methods (like render ) provided from React class it 
+should give an error.
+

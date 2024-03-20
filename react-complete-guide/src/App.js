@@ -1,5 +1,6 @@
 // import ExpenseItem from "./Components/ExpenseItem";
 import Expenses from "./Components/Expenses/Expenses";
+import NewExpense from "./Components/NewExpense/NewExpense";
 // is used in old react apps
 import React from 'react';
 
@@ -38,10 +39,13 @@ const App = ()=> {
   //     );
   // without jsx
 
-
+  const addExpenseHandler = expense =>{
+    console.log('in app.js',expense)
+  }
   return (
     <div className="App">
-      <h2>Let's Get Started</h2>
+      {/* <h2>Let's Get Started</h2> */}
+      <NewExpense onAddExpense={addExpenseHandler}/>
       
       <Expenses items={expenses} />
 
